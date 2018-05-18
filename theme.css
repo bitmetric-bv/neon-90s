@@ -1,0 +1,21 @@
+.qvt-sheet {
+    background: #f5faff !important;
+}
+
+.qv-object * {
+    font-family: 'Comic Sans MS' !important;
+}
+
+.qv-object .qv-inner-object {
+    padding: 10px !important;
+    background-color: rgba(254, 222, 235, 0.7) !important;
+}
+
+.sheet-title-text {
+    color: #fb5297 !important;
+}
+
+.qvt-sheet {
+    background-image: url('90s_background.jpg') !important;
+    background-repeat: repeat !important;
+}
